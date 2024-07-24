@@ -2,6 +2,11 @@
 A thesis presented in partial fulfillment of the requirements for the bachelor’s degree at Graduate School of Science, Nagoya University.
 This repository contains a years worth of work during my undergraduate years as a member of the Laboratory of Galaxy Formation and Evolution at Nagoya University.
 
+# Poster
+
+![9th EANAM Poster - Dillon (1)](https://github.com/user-attachments/assets/9e45efb5-ab8a-4f6a-8439-03ad4032578f)
+
+
 # Summary
 This work builds upon the previous research into the use of PCA in simplifying the morphologies of galaxies into "eigengalaxies" in "Eigengalaxies: describing galaxy morphology using principal components in image space" (Uzeirbegovic et al., 2020).
 
@@ -22,4 +27,5 @@ The above work was shared at the following conferences/workshops:
   
 # Acknowledgements
 I dedicate this work to my parents, without whose support I would never have been able to find my own way in life.
+
 I also give thanks to my two close advisors: Professor Takeuchi Tsutomu and Dr. Suchetha Cooray, whose guidance have led to me developing a passion in the fields of ML and Data Science.
